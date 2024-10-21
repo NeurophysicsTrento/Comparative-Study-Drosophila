@@ -12,8 +12,8 @@ bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 - glo_type: glomerulus type, for nomenclature see https://doi.org/10.1016/j.cub.2005.07.034
 - glo_id: glomerulus ID
 - samples 1-87: normalized fluorescence signal, trial averaged, 87 time points at 9.6 Hz sampling rate, odour pulse starts after 2s and ends after 5s 	
-- Odour: Odour type	
-- Position_x/y: Position of the glomerulus center in the image plane
+- Odour: odour type	
+- Position_x/y: lateral position of the glomerulus center in the image plane
 
 ## The Behaviour tables and graphs.xlsx table contains the following data from the behavioural assay:
 - Experimental conditions: time, date, experiment duration, temperature, humidity
