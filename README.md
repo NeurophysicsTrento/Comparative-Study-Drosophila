@@ -17,8 +17,8 @@ bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 
 ## The Behaviour tables and graphs.xlsx table contains the following data from the behavioural assay:
 - Experimental conditions: time, date, experiment duration, temperature, humidity
-- Species
-- Age
+- Species: D. melanogaster/suzukii	
+- Age: days after eclosion
 - Condition: experiment ID see paper
 - Gage ID: which of the 8 cages was used
 - Trap: which of the 4 cage traps is counted
@@ -29,4 +29,4 @@ bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 - Ntot baits: number of flies in all traps
 - Ntot cage: number of flies in the experimental cage
 - proportion: N flies bait/Ntot baits
-- ID: result ID
+- ID: results ID
