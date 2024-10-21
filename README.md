@@ -1,5 +1,5 @@
 # Comparative study of the olfactory system in Drosophila suzukii and melanogaster
-These are the calcium imaging raw data analysed in the study:
+These are the raw data from the study:
 
 "Differential coding of fruit, leaf, and microbial odours in the brains of Drosophila suzukii and Drosophila melanogaster" Claire Dumenil, Gülsüm Yildirim, Albrecht Haase
 bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
