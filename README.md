@@ -4,7 +4,7 @@ These are the calcium imaging raw data analysed in the study:
 "Differential coding of fruit, leaf, and microbial odours in the brains of Drosophila suzukii and Drosophila melanogaster" Claire Dumenil, Gülsüm Yildirim, Albrecht Haase
 bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 
-## The Flydata.xlsx table contains the following data:
+## The Flydata.xlsx table contains the following data from the brain imaging experiment:
 - Plane: one of three image planes (top, middle, bottom)
 - Antlobe: left/right antennal lobe	
 - Species: D. melanogaster/suzukii	
@@ -15,8 +15,8 @@ bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 - Odour: Odour type	
 - Position_x/y: Position of the glomerulus center in the image plane
 
-## The Behaviour tables and graphs.xlsx table contains the following data:
-- Experimental conditions: time, date, experiment duration, temperature, humindity
+## The Behaviour tables and graphs.xlsx table contains the following data from the behavioural assay:
+- Experimental conditions: time, date, experiment duration, temperature, humidity
 - Species
 - Age
 - Condition: experiment ID see paper
@@ -24,7 +24,7 @@ bioRxiv 2024.08.30.610544; doi: https://doi.org/10.1101/2024.08.30.610544
 - Trap: which of the 4 cage traps is counted
 - Bait 1: 1st odour in the experiment
 - Bait 2: 2nd odour in the experiment
-- position baitTrap position in cage
+- position bait: trap position in cage
 - N flies bait: counted fies in trap
 - Ntot baits: number of flies in all traps
 - Ntot cage: number of flies in the experimental cage
